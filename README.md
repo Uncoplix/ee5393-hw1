@@ -1,7 +1,7 @@
 # Overview
 Modified version of University of Minnesota Prof. Marc Riedel's stochastic simulation software. Homework files from EE 5393 are also in this repo.
 
-# What I changed
+### What I changed
 - Added optional CLI arg max_events:
   - aleae_main.cc:23
   - aleae_main.cc:82
